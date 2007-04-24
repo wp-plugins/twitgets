@@ -17,8 +17,6 @@ There are four Twitgets currently available. Download and save to your wordpress
    3. Twitter Party - shows your friends postings using Twitter’s party flash badge code.
    4. Twitter JavaScript - a non-flash version of Twitter Flash using Twitter’s JavaScript badge.
 
-This is the long description.  No limit, and you can use Markdown (as well as in the following sections).
-
 == Installation ==
 
 -- Requirements --
@@ -49,7 +47,9 @@ http://twitter.com/RCOZ). At the bottom of your twitter messages you will see a 
 it or click on it to see the URL it takes you to. It should end with #######.rss. That ######## is your Twitter id. 
 (For example mine is 2898541).
 
-5. Follow the configuration directions in the configuration instructions below for the Twitgets plugins you wish to use.
+5. Follow the configuration directions in the configuration instructions (Other Commnents) for the Twitgets plugins you wish to use.
+The link to the Installation doc with images is
+http://www.dhtechventures.com/blog1/?page_id=10
 
 == Frequently Asked Questions ==
 1. Where is the installation documentation other than this readme.txt file.
