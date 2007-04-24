@@ -32,6 +32,10 @@ You can get the Sidebar Widgets plugin at http://svn.wp-plugins.org/widgets/trun
 
 Download and save the Twitget files to your wordpress/wp-content/plugins/widgets directory.
 
+    NOTE: You only need to install the .php files. The .png images were part of
+the documentation. They were bundled into the ZIP file when uploaded to the
+Wordpress repository. You don't need them, sorry for any confusion.
+
 1. Login to your Wordpress administration page and click on the “Plugins” link to get to the plugin activation page. 
 You should see the new plugins listed. Click on the “Activate” link next to each one you wish to use. 
 
