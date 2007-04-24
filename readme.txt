@@ -5,10 +5,10 @@ Requires at least: 2.0.2
 Tested up to: 2.1
 Stable tag: 4.3
 
+== Description ==
+
 Twitgets takes the Twitter Badges code and wraps them in Wordpress plugin so you can just "plug them in".
 No More editing of PHP or HTML files.
-
-== Description ==
 
 There are four Twitgets currently available. Download and save to your wordpress/wp-content/plugins/widgets directory.
 
